@@ -1,0 +1,5 @@
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConsoleApp\Sockets\Udp_client\Udp_client\bin\Debug\Udp_client.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConsoleApp\Sockets\Udp_client\Udp_client\bin\Debug\Udp_client.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConsoleApp\Sockets\Udp_client\Udp_client\bin\Debug\Udp_client.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConsoleApp\Sockets\Udp_client\Udp_client\obj\Debug\Udp_client.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConsoleApp\Sockets\Udp_client\Udp_client\obj\Debug\Udp_client.pdb

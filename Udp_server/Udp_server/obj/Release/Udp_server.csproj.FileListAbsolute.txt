@@ -1,0 +1,6 @@
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConsoleApp\Sockets\Udp_server\Udp_server\bin\Release\Udp_server.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConsoleApp\Sockets\Udp_server\Udp_server\bin\Release\Udp_server.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConsoleApp\Sockets\Udp_server\Udp_server\bin\Release\Udp_server.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConsoleApp\Sockets\Udp_server\Udp_server\obj\Release\Udp_server.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConsoleApp\Sockets\Udp_server\Udp_server\obj\Release\Udp_server.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConsoleApp\Sockets\Udp_server\Udp_server\obj\Release\Udp_server.csprojResolveAssemblyReference.cache
