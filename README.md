@@ -1,2 +1,2 @@
 # UdpApp
-UDP client-server application 
+UDP client-server console application 
